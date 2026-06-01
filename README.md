@@ -41,10 +41,9 @@ Website promosi diskon produk berbasis Laravel, dilengkapi panel admin untuk men
 
 ## Tech Stack
 
-- **Backend:** Laravel 11, PHP 8.2
-- **Frontend:** Blade, Vite, Vanilla CSS (tanpa framework CSS)
+- **Backend:** Laravel, PHP 8.2
+- **Frontend:** Blade, Vite, Vanilla CSS
 - **Database:** MySQL
-- **Penyimpanan gambar:** MySQL LONGBLOB (langsung di database)
 
 ---
 
