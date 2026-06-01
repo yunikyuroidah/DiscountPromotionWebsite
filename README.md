@@ -66,6 +66,4 @@ npm run build
 
 # 5. Jalankan server
 php artisan serve
-```
 
-Akun admin default tersedia setelah seeder dijalankan (lihat `database/seeders/AdminSeeder.php`).
