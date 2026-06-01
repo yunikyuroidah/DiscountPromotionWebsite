@@ -34,7 +34,6 @@ Website promosi diskon produk berbasis Laravel, dilengkapi panel admin untuk men
 - Gambar produk di-serve langsung dari database (BLOB)
 
 **Admin**
-- Login tersembunyi — akses via shortcut keyboard `Shift + T → A` di halaman publik
 - Dashboard ringkasan data produk dan statistik pengunjung
 - CRUD data barang dengan drag & drop gambar (disimpan ke database, bukan filesystem)
 - Riwayat log pengunjung
