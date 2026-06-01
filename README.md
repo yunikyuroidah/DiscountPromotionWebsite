@@ -31,11 +31,10 @@ Website promosi diskon produk berbasis Laravel, dilengkapi panel admin untuk men
 **Publik**
 - Halaman beranda dengan produk unggulan dan statistik promo
 - Halaman promo lengkap dengan filter kategori, diskon, dan rentang harga
-- Gambar produk di-serve langsung dari database (BLOB)
 
 **Admin**
 - Dashboard ringkasan data produk dan statistik pengunjung
-- CRUD data barang dengan drag & drop gambar (disimpan ke database, bukan filesystem)
+- CRUD data barang dengan drag & drop gambar
 - Riwayat log pengunjung
 
 ---
